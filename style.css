@@ -1,0 +1,45 @@
+
+.imagenMisGustos
+{
+    width: 300px;
+    height: auto; /* Mantiene la proporción original de la imagen */
+    border-radius: 50%;
+}
+
+
+#imagenentexto{
+    height: auto;
+}
+
+.text-Resum-Valq{
+    text-align: justify;
+}
+.txt-descriptivo
+{
+    
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.textos{
+    font-size: 21px;
+}
+
+.bannervalquiria{
+    width: 100%; 
+    height: 400px;
+    background-image: url('src/bannervalquiria.jfif'); 
+    background-size: cover; /* Ajusta la imagen al tamaño del contenedor */
+    background-position: center; /* Centra la imagen dentro del contenedor */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
+.imagen-principal{
+    width: 100%; 
+    height: 425px;
+    background-image: url('src/portada.jpg'); 
+    background-size: cover; /* Ajusta la imagen al tamaño del contenedor */
+    background-position: center; /* Centra la imagen dentro del contenedor */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */  
+}
