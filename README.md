@@ -6,7 +6,7 @@ Fue desarrollado con HTML y CSS con el uso de el framework de UI, Bootstrap util
 
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
-[Proyecto Desplegado (https://portafolio-vania-b7-g2.vercel.app/)](https://portafolio-vania-b7-g2.vercel.app/)
+[Proyecto Desplegado (https://mis-gustos-1er-pagina.vercel.app/)](https://mis-gustos-1er-pagina.vercel.app/)
 
 ## Secciones de mi sitio
 
